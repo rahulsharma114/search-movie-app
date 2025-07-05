@@ -33,6 +33,6 @@ A responsive and performant movie search and selection app built using **React**
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/movie-app.git
+git clone https://github.com/rahulsharma114/search-movie-app.git
 cd movie-app
 npm install
