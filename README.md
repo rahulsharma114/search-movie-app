@@ -30,6 +30,11 @@ A responsive and performant movie search and selection app built using **React**
 
 ---
 
+### Prerequisites
+
+- Node.js >= 20
+- npm >= 10 (or `pnpm` / `yarn`)
+
 ## 📦 Installation
 
 ```bash
